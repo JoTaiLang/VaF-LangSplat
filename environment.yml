@@ -1,4 +1,4 @@
-name: LAS
+name: vaf
 channels:
   - pytorch
   - pyg
