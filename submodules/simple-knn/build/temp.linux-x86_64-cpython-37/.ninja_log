@@ -1,0 +1,4 @@
+# ninja log v5
+0	4400	1712755507197782009	/home/ps/lcz/3DGS/LAS/submodules/simple-knn/build/temp.linux-x86_64-cpython-37/simple_knn.o	4eff906db5e19c67
+0	6389	1712755509177868156	/home/ps/lcz/3DGS/LAS/submodules/simple-knn/build/temp.linux-x86_64-cpython-37/ext.o	fdc17175103ad
+0	17639	1712755520430356519	/home/ps/lcz/3DGS/LAS/submodules/simple-knn/build/temp.linux-x86_64-cpython-37/spatial.o	306035c29b910917

@@ -1,0 +1,31 @@
+name: LAS
+channels:
+  - pytorch
+  - pyg
+  - conda-forge
+  - defaults
+dependencies:
+  - open-clip-torch
+  - cudatoolkit=11.6
+  - plyfile=0.8.1
+  - python=3.7.13
+  - pip=22.3.1
+  - pytorch=1.12.1
+  - torchaudio=0.12.1
+  - torchvision=0.13.1
+  - pytorch-scatter
+  - tqdm
+  - opencv
+  - tensorboard
+  - jaxtyping
+  - matplotlib
+  - typing
+  - pathlib
+  - pip:
+    - einops
+    - wandb
+    - lpips
+    - laspy
+    - submodules/simple-knn
+    - submodules/segment-anything-langsplat
+    - submodules/langsplat-rasterization
